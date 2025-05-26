@@ -6,7 +6,7 @@ A real-time AI-powered surveillance system using **YOLO v11** to detect high-ale
 
 ##  Overview
 
-This project leverages deep learning and computer vision to automatically detect weapons from images or video streams. By using a custom-trained YOLO model, it identifies threats and triggers specific alert sounds for each detected weapon, aiding rapid and accurate security response.
+This project leverages deep learning and computer vision to automatically detect weapons from images. By using a custom-trained YOLO model, it identifies threats and triggers specific alert sounds for each detected weapon, aiding rapid and accurate security response.
 
 ---
 
